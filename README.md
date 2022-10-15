@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Belduri Praveen
-i am From Andhrapradesh i am learning frontend web development i realy enjoy learning and frameworks like html css and javascript.
+i am From Andhrapradesh i am learning frontend web development. i realy enjoy learning new frameworks like html css and javascript.
 
 
 <!--
