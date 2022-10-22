@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https:/ /www.linkedin.com/in/praveenbelduri/...
 
 ## Tools and Skils
+### Languages-HTML,CSS,nd Javascript
 
