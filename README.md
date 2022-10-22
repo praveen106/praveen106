@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ### Languages-HTML,CSS,nd Javascript
 
 
-<p align="left"> <a href="https://twitter.com/praveen" target="blank"><img src="https://img.shields.io/twitter/follow/praveen?logo=twitter&style=for-the-badge" alt="praveen" /></a> </p>
+<p align="left"> <a target="blank"><img src="https://img.shields.io/twitter/follow/praveen?logo=twitter&style=for-the-badge" alt="praveen" /></a> </p>
 
 - 🔭 I’m currently working on front end development **own project**
 
