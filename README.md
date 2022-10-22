@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## Tools and Skils
 ### Languages-HTML,CSS,nd Javascript
 
-- 🔭 I’m currently working on front end development **own project**
+- 🔭 I’m currently working on front end development 
 
 - 🌱 I’m currently learning **html css jvascript,react.js**
 
