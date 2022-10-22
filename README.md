@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **praveen28611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bzT4ayv_zsnDhfyUbT-x-TNABcKr7cDB/view?usp=sharing](https://drive.google.com/file/d/1bzT4ayv_zsnDhfyUbT-x-TNABcKr7cDB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bzT4ayv_zsnDhfyUbT-x-TNABcKr7cDB/view?usp=sharing]()
 
