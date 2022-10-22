@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new possition...
 - 🤔 how to connect me:praveen28611@gmail.com
 - 📫 How to reach me: https:/ /www.linkedin.com/in/praveenbelduri/...
--my portfolio 
+
+## Tools and Skils
 
