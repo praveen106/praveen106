@@ -1,6 +1,6 @@
-### Hi there 👋 I am  Praveen
-## i am learning frontend web development.
-## i realy enjoy learning new frameworks like html css and javascript.
+## Hi there 👋 I am  Praveen
+### i am learning frontend web development.
+### i realy enjoy learning new frameworks like html css and javascript.
 
 Here are some ideas to get you started:
 
