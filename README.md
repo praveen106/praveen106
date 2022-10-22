@@ -9,9 +9,6 @@ Here are some ideas to get you started:
 ## Tools and Skils
 ### Languages-HTML,CSS,nd Javascript
 
-
-<p align="left"> <a target="blank"><img src="https://img.shields.io/twitter/follow/praveen?logo=twitter&style=for-the-badge" alt="praveen" /></a> </p>
-
 - 🔭 I’m currently working on front end development **own project**
 
 - 🌱 I’m currently learning **html css jvascript,react.js**
